@@ -1,0 +1,11 @@
+name: cycle_app
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - streamlit
