@@ -11,8 +11,8 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.svm import SVR
 
-st.set_page_config(page_title="Ensemble Menstrual Cycle Predictor", layout="centered")
-st.title("🤖 Menstrual Cycle Predictor with Ensemble Learning")
+st.set_page_config(page_title="Menstrual Cycle Predictor", layout="centered")
+st.title("Hi RIYA! Check your cycle")
 
 st.write("Upload a CSV file with at least one column: `start_date` in `YYYY-MM-DD` format.")
 
